@@ -1,3 +1,3 @@
 # Odometry-Error-model 
 
-Simple program that takes the distances moved by 2 wheels and returns a covariance matrix
+A framework for modeling nondeterministic odometry errors in differential-drive robots using dead reckoning.
